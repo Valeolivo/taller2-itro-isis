@@ -42,7 +42,9 @@ Me llamó la atención porque no solamente permite modificar el código, sino qu
 
 ---
 ***Apache 2.0***
+La Apache License 2.0 es una licencia que permite utilizar, modificar y distribuir el software, incluso en proyectos comerciales. También permite crear versiones modificadas del código. Una característica que me pareció interesante es que incluye condiciones relacionadas con las patentes, además de los derechos de autor.
 
+Me llamó la atención porque combina la libertad para utilizar y modificar el código con algunas protecciones legales relacionadas con las patentes. Por esta razón, es utilizada en muchos proyectos de software.
 
 ---
 *Aprendí que una licencia permite establecer claramente qué pueden hacer otras personas con un software. También entendí que no todas las licencias funcionan igual y que elegir una depende de lo que el creador quiera permitir.*
