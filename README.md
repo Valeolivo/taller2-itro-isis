@@ -30,15 +30,21 @@ Sirven para proteger los derechos del creador y, al mismo tiempo, dejar claros l
 ---
 # 3 Ejemplos de licencias
 ***MIT:***
-Es una licencia permisiva que permite usar, modificar y distribuir el código, incluso en proyectos comerciales. Me llamó la atención porque es sencilla y ofrece mucha libertad.
+La licencia MIT es una licencia bastante sencilla y flexible. Permite que otras personas utilicen, copien, modifiquen y compartan el software. Incluso permite utilizar el código en proyectos comerciales. Una de sus principales condiciones es que se mantenga el aviso de copyright y la licencia original.
+
+Me llamó la atención porque da mucha libertad a las personas que quieren utilizar o modificar un proyecto, sin imponer demasiadas restricciones. Por eso es una licencia muy utilizada en proyectos de software.
 
 ---
 ***GNU GPLv3***
-Permite usar y modificar el código, pero busca que las libertades del software se mantengan cuando se distribuyen versiones modificadas. Me llamó la atención por el concepto de copyleft.
+La GNU GPLv3 permite utilizar, estudiar, modificar y compartir un programa. Sin embargo, tiene una característica importante llamada copyleft, que busca que las versiones modificadas que se distribuyan mantengan las mismas libertades para otros usuarios.
+
+Me llamó la atención porque no solamente permite modificar el código, sino que también busca que esas libertades continúen cuando el software se comparte o se modifica. Es una forma de promover que el software siga siendo libre.
 
 ---
 ***Apache 2.0***
-Permite usar, modificar y distribuir el software. También incluye disposiciones relacionadas con las patentes, que son derechos legales que pueden proteger determinadas invenciones. Me llamó la atención por esta característica.
+La Apache License 2.0 es una licencia que permite utilizar, modificar y distribuir el software, incluso en proyectos comerciales. También permite crear versiones modificadas del código. Una característica que me pareció interesante es que incluye condiciones relacionadas con las patentes, además de los derechos de autor.
+
+Me llamó la atención porque combina la libertad para utilizar y modificar el código con algunas protecciones legales relacionadas con las patentes. Por esta razón, es utilizada en muchos proyectos de software.
 
 ---
 *Aprendí que una licencia permite establecer claramente qué pueden hacer otras personas con un software. También entendí que no todas las licencias funcionan igual y que elegir una depende de lo que el creador quiera permitir.*
